@@ -38,6 +38,7 @@ func main() {
 		answer += totals[len(totals)-i-1]
 	}
 	fmt.Println(answer)
+	fmt.Println(totals)
 }
 
 func first() {
